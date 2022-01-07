@@ -2,6 +2,8 @@
 
 Seminar Work : "Parallelization of Physics calculations on GPUs with CUDA" \
 By Ashish Darekar and Shubham Khatri \
+Examiner: Dr. Stefan Recksiegel
+Assistant advisor: Anton Riedel
 Technische Universität München, Fakultät für Physik
 
 To use the code, you will need The NVIDIA CUDA Toolkit version
